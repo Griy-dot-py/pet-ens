@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pet-ens"
+version = "0.0.1"
+description = "Github: https://github.com/Griy-dot-py/pet-ens"
+authors = ["Griy.py <griy.py@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
